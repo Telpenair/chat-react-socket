@@ -5,9 +5,9 @@ Type in cmd 'npm i' and then 'npm start' first in server dir and second in main 
 Each client can display data from server and send data to server.
 
 In work: 
-⋅⋅* user name
-⋅⋅* connect/disconnect in chat messages
-⋅⋅* online users
-⋅⋅* saving history on server in mongodb
+  * user name
+  * connect/disconnect in chat messages
+  * online users
+  * saving history on server in mongodb
 
 Made by merging official guides by socket.io and react.
